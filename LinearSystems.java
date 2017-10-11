@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class LinearSystems {
 
 	/**
-	 * @author Manraj chinjar and Kunwar Sandhu
+	 * @author Manraj Chinjar and Kunwar Sandhu
 	 */
 	public static void main(String[] args) {
 		int q;
